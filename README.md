@@ -1,7 +1,7 @@
 # Reframing the Gilded Rose kata into a DSPy program
 
 This repository contains a **Google Colab notebook** that I wrote while learning [DSPy](https://dspy.ai/). It explains:
-- How to define a [Language Model](https://dspy.ai/learn/programming/language_models/), [Signature](https://dspy.ai/learn/programming/signatures/) and a [Module](https://dspy.ai/learn/programming/modules/)
+- How to define a [Language Model](https://dspy.ai/learn/programming/language_models/), a [Signature](https://dspy.ai/learn/programming/signatures/) and a [Module](https://dspy.ai/learn/programming/modules/)
 - How to define a dataset of [Examples](https://dspy.ai/learn/evaluation/data/) and a [Metric](https://dspy.ai/learn/evaluation/metrics/) to [Evaluate](https://dspy.ai/learn/evaluation/overview/) your module
 - How to [optimize](https://dspy.ai/learn/optimization/overview/) your module using [DSPy's internal optimizers](https://dspy.ai/learn/optimization/optimizers/)
 
