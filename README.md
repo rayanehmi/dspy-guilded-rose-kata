@@ -7,11 +7,11 @@ This repository contains a **Google Colab notebook** that I wrote while learning
 
 There are three versions of the notebook: one with solutions, one with strong hints on what to do and how to do it, and a third blank one with only the problem definition.
 
-### What is DSPy ?
+## What is DSPy ?
 
 DSPy is a declarative framework for building modular AI software. Read more on their [docs](https://dspy.ai/).
 
-### What is the Gilded Rose Kata ?
+## What is the Gilded Rose Kata ?
 
 The [Gilded Rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) is originally a refactoring exercise. The goal is to refactor some [questionable inventory updater code](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/python/gilded_rose.py) that encompass a set of [inn rules](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.md).
 
@@ -19,6 +19,10 @@ We propose a different approach: give the rules and an item to a LM and let it p
 
 More info in the notebooks !
 
-### How do I start ?
+## How do I start ?
 
 Simply download the version of the notebook you want, then access Google Colab: https://colab.research.google.com/ and upload the notebook. Alternatively, put the notebook in your Google Drive and double click it.
+
+## Acknowledgements
+
+This notebook is a solution to the Gilded Rose Refactoring Kata, originally created by Terry Hughes. The kata is a popular exercise for practicing code refactoring. You can find more information about it and various implementations in different languages, notably popularized by Emily Bache.
